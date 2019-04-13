@@ -1,2 +1,2 @@
 # DataAnalysewithPython
-use many package for DataAnalys
+use many package for DataAnalyse
