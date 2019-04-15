@@ -8,3 +8,9 @@ plt.legend()
 plt.show()   #pour afficher la figure
 
 
+n=1024
+x=np.random.normal(0,1,n)
+y=np.random.normal(0,1,n)
+
+plt.scatter(x,y)
+plt.show()
